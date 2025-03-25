@@ -47,6 +47,13 @@ Você encontrará os arquivos `vazoes.csv` e `posto.csv` na pasta `dados/`. Use 
         . Submercado
         . Bacia hidrográfica
         . Tipo do posto (se existir)
+- A energia de um posto pode ser estimada multiplicando a vazão (m³/s) pela constante de produtibilidade específica do posto.
+    Dica: Considere que essa produtibilidade (MW por m³/s) esteja disponível no arquivo posto.csv
+- Utilize essa informação para estimar a energia (MW):
+    . Cada registro individual (posto + data)
+    . Total por posto
+    . Total por bacia (se disponível)
+    . Total por submercado (se disponível)
 - Explore os diferentes tipos de agrupamentos possíveis
 - Gere um ou mais dataframes com esses agrupamentos
 - Utilize groupby, agg, ou outras funções que achar necessário
