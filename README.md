@@ -17,12 +17,12 @@ Você encontrará no repositório um arquivo com instruções detalhadas para ca
 - Visualizações
 - Regressão linear simples
 
-📦prova-python-junior
- ┣ 📂dados/
- ┃ ┗ 📄dataset.csv
- ┣ 📄instrucoes.md
- ┣ 📄respostas.ipynb
- ┗ 📄README.md
+prova-python-junior/
+├── dados/
+│   └── dataset.csv
+├── instrucoes.md
+├── respostas.ipynb
+└── README.md
 
 Dados/: Contém o(s) dataset(s) necessários para a prova.
 
