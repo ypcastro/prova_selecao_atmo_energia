@@ -27,8 +27,8 @@ As tarefas envolvem:
 ```
 prova-python-junior/
 ├── dados/
-│   └── vazoes.csv
 │   └── posto.csv
+│   └── vazoes.csv
 ├── instrucoes.md
 ├── respostas.ipynb
 └── README.md
