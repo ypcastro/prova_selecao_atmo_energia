@@ -81,6 +81,11 @@ Você encontrará os arquivos `vazoes.csv` e `posto.csv` na pasta `dados/`. Use 
 - Prefira gráficos limpos e informativos
 - Seu código deve ser funcional e replicável
 - Evite usar bibliotecas que não sejam mencionadas, a menos que justifique
+---
+
+### 🔍 Observação
+
+Não esperamos que todas as tarefas estejam 100% completas. A ideia é entender como você estrutura seu pensamento, sua familiaridade com os dados e sua abordagem ao resolver problemas. Faça o melhor que puder, explique suas decisões e até onde conseguir ir — isso já nos diz muito!
 
 ---
 
