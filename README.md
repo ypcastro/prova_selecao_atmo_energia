@@ -25,7 +25,7 @@ As tarefas envolvem:
 ## 📁 Estrutura do Repositório
 
 ```
-prova-python-junior/
+prova_selecao_atmo_energia/
 ├── dados/
 │   └── posto.csv
 │   └── vazoes.csv
