@@ -1,6 +1,6 @@
 # 🧪 Prova Técnica – Vaga Analista de Dados Júnior (Middle Office)
 
-Bem-vindo(a)! Este repositório contém a prova técnica para a vaga de **Analista de Dados Júnior com foco em Python**.
+Bem-vindo(a)! Este repositório contém a prova técnica para a vaga de **Analista de Dados Júnior para  Mercado de Energia**.
 
 ---
 
