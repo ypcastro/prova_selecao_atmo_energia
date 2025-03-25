@@ -61,7 +61,7 @@ Você encontrará os arquivos `vazoes.csv` e `posto.csv` na pasta `dados/`. Use 
     . Por que escolheu esses agrupamentos?
     . Qual informação interessante pode ser extraída deles?
 
-### 5. Modelo de Regressão 
+### 5. Modelo de Regressão (Opcional)
 - Escolha duas variáveis do conjunto de dados de vazoes.csv:
     . Uma como variável independente (explicativa)
     . Outra como variável dependente (a ser estimada)
